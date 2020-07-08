@@ -1,0 +1,144 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.header-top{
+	text-align:center;
+}
+
+.header-top h2{
+	font-size:41px;
+	font-weight:bold;
+	text-align:center;
+	letter-spacing:3px;
+	color:#3c4761;
+	margin-top:115px;
+}
+
+.header-top hr{
+	width:90px;
+	border:2px solid #c8d9e5;
+}
+
+.header-top p{
+	text-align:center;
+	color:#535e75;
+	font-size:19px;
+}
+
+.header-body{
+	text-align:center;
+	margin-top:75px;
+	margin-bottom:120px;
+}
+
+.header-body .header-img{
+	height:200px;
+	width:200px;
+	background-color:#878787;
+	border-radius:50%;
+}
+
+.header-body h3{
+	font-weight:bold;
+	font-size:24px;
+	margin-top:35px;
+}
+
+.header-body span{
+	font-size:16px;
+	color:#48c1e9;
+}
+
+.header-body p{
+	font-size:16px;
+	margin-top:20px;
+}
+
+.skill-top{
+	text-align:center;
+}
+
+.skill-top h2{
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	letter-spacing:3px;
+	color:#3c4761;
+	margin-top:115px;
+}
+
+.skill-top hr{
+	width:90px;
+	border:2px solid #c8d9e5;
+}
+
+.skill-top p{
+	text-align:center;
+	color:#535e75;
+	font-size:18px;
+}
+
+.skill-body{
+	margin-top:80px;
+	margin-bottom:115px;
+}
+
+.footer-top{
+	text-align:center;
+}
+
+.footer-top h2{
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	letter-spacing:3px;
+	color:#3c4761;
+	margin-top:115px;
+}
+
+.footer-top hr{
+	width:90px;
+	border:2px solid #e5c37f;
+}
+
+.footer-top p{
+	text-align:center;
+	color:#535e75;
+	font-size:18px;
+}
+
+.footer-body{
+	margin-top:40px;
+}
+
+.footer-body .nav-link{
+	font-size:18px;
+	padding:5px 20px;
+	background-color:#ebc985;
+	color:#807357 !important;
+	margin-left:10px;
+}
+
+.footer-body .nav-item .active{
+	background-color:#fff !important;
+}
+
+.footer-img{
+	margin-top:55px;
+}
+
+.footer-btn .btn{
+	background-color:#17c2a4;
+	padding:25px 50px;
+	color:#ffffff !important;
+	font-size:18px;
+	font-weight:600;
+	margin-top:70px;
+	margin-bottom:110px;
+	-webkit-box-shadow: 0 5px 1px -1px #14a58c;
+	   -moz-box-shadow: 0 5px 1px -1px #14a58c;
+	        box-shadow: 0 5px 1px -1px #14a58c;
+}
