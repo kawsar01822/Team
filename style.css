@@ -126,8 +126,8 @@ body{
 	background-color:#fff !important;
 }
 
-.footer-img{
-	margin-top:55px;
+.box{
+	margin:55px 0px;
 }
 
 .footer-btn .btn{
@@ -266,6 +266,6 @@ textarea,input[type]{
 	margin-top:25px;
 }
 
-.active{
+.act{
 	color:#30bae7 !important;
 }
